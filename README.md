@@ -1,0 +1,2 @@
+# nested-TernaryOperator-in-java
+Java ternary operator is the only conditional operator that takes three operands. It’s a one-liner replacement for if-then-else statement and used a lot in Java programming. We can use the ternary operator in place of if-else conditions or even switch conditions using nested ternary operators. Although it follows the same algorithm as of if-else statement, the conditional operator takes less space and helps to write the if-else statements in the shortest way possible.
